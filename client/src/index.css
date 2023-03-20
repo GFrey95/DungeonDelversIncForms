@@ -1,0 +1,20 @@
+/* #FFFEBD,#F7CE65,#930C10,#290000,#030303,#FFFEBD,#F7CE65,#930C10 */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Dungeon',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Dungeon';
+  src: url(../public/fonts/DUNGRG__.TTF);
+}
